@@ -9,4 +9,4 @@ what is this?
 
 sync?
 
-why it is not 
+why it is not showing
